@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 <a href="https://github.com/omegamaster86">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=omegamaster86&count_private=true&show_icons=true&theme=dracula" />
 </a>
