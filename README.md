@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula)
+
 <!--
 **omegamaster86/omegamaster86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
