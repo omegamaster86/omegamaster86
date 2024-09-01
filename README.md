@@ -1,9 +1,9 @@
 ## Hi there 👋
 <a href="https://github.com/omegamaster86">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=omegamaster86&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/omegamaster86">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegamaster86&layout=compact&theme=dracula" />
 </a>
 
 <!--
