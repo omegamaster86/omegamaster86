@@ -6,6 +6,10 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omegamaster86&layout=compact&theme=dracula" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omegamaster86
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **omegamaster86/omegamaster86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
