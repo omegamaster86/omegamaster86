@@ -22,12 +22,3 @@
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="32" alt="Dart" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="32" alt="Material-UI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby&logoColor=white" height="32" alt="Ruby on Rails" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omegamaster86&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omegamaster86&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
